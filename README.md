@@ -14,3 +14,5 @@
 
 ### Charles
 https://github.com/user-attachments/assets/0a1c8a34-0184-4a21-b963-e720d5d41334
+
+[Cкриншот перехваченного HTTPs-запроса](https://github.com/user-attachments/assets/549a240d-400b-49b6-9d9f-8e4cd1eee680)
