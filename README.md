@@ -11,3 +11,6 @@
 [Issuess YouTrack Andrei Zamula mobile.xlsx](https://github.com/user-attachments/files/20961797/youtrack.Andrei.Zamula.mobile.xlsx)
 
 [Отчет по результатам тестирования Andrei Zamula.pdf](https://github.com/user-attachments/files/20962035/Andrei.Zamula.pdf)
+
+### Charles
+https://github.com/user-attachments/assets/0a1c8a34-0184-4a21-b963-e720d5d41334
